@@ -1,0 +1,15 @@
+
+.bg-bb{
+    background-color: #0d6efd;
+}
+
+.bg-gg{
+    background-color: #6c757d;
+}
+
+.bg-hh{
+    background-color: #fcfafa;
+}
+.btn:hover{
+    background-color: crimson;
+}
